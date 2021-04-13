@@ -11,7 +11,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to VIP!
+          Welcome to Vation Innovation Platform!
         </h1>
 
         <p className={styles.description}>
